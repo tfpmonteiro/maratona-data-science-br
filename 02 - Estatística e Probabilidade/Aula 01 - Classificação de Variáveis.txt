@@ -1,0 +1,9 @@
+1. Tipos de variáveis
+
+1.1 Qualitativa: Não se pode quantificar
+1.1.1 Nominal:  Não se pode ordenar (separa-se por times, marcas, etc)
+1.1.2 Ordinal: Pode-se ordenar (grau de instrução, tipos de religião, etc)
+
+1.2 Quantitativa: é possível quantificar
+1.2.1 Discreta: Composta por números inteiros (idade, número de erros, número de filhos, etc.)
+1.2.2 Contínua: Composta por números quebrados (altura, peso, etc.)
